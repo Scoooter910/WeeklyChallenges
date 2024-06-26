@@ -132,7 +132,7 @@ namespace ChallengesWithTestsMark8
         {
             if (numbers == null || numbers.Length == 0)
             {
-                return 0; 
+                return 0;
             }
 
             int sum = 0;
@@ -142,16 +142,17 @@ namespace ChallengesWithTestsMark8
             {
                 if (number % 2 == 0)
                 {
-                    sum += number; 
+                    sum += number;
+                    count++; // Increment count for each even number
                 }
             }
 
             if (count == 0)
             {
-                return 0; 
+                return 0;
             }
 
-            return (double)sum / count; 
+            return (double)sum / count;
         }
 
         public int Factorial(int number)
