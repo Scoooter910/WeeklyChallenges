@@ -13,3 +13,9 @@ C:\Users\Scooo\OneDrive\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8\
 C:\Users\Scooo\OneDrive\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\net6.0\ChallengesWithTestsMark8.pdb
 C:\Users\Scooo\OneDrive\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\net6.0\ChallengesWithTestsMark8.genruntimeconfig.cache
 C:\Users\Scooo\OneDrive\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\net6.0\ref\ChallengesWithTestsMark8.dll
+C:\Users\Scooo\OneDrive\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\net6.0\xunit.abstractions.dll
+C:\Users\Scooo\OneDrive\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\net6.0\xunit.assert.dll
+C:\Users\Scooo\OneDrive\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\net6.0\xunit.core.dll
+C:\Users\Scooo\OneDrive\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8\bin\Debug\net6.0\xunit.execution.dotnet.dll
+C:\Users\Scooo\OneDrive\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\net6.0\ChallengesWithTestsMark8.csproj.AssemblyReference.cache
+C:\Users\Scooo\OneDrive\Desktop\Repos\WeeklyChallenges\ChallengesWithTestsMark8\obj\Debug\net6.0\Challeng.D86A0676.Up2Date
